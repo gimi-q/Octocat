@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+clone: a local duplicate of a repository- enables parallel development which means you are not limited to choosing one path to the final version of code.easy to a/b options
